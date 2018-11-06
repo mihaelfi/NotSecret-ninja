@@ -1,10 +1,3 @@
-/*
- * Client.cpp
- *
- *  Created on: Jan 14, 2015
- *      Author: Michael Fildstein Id:309161594
- */
-
 #include <Client.h>
 #include "HttpProtocol.h"
 #include <string>
